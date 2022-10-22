@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publications/e-soda-23/soda23.pdf
+url_pdf: publication/soda-23/soda23.pdf
 url_code: 
 url_dataset:
 url_poster:

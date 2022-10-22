@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/b-oopsla-20/OOPSLA20.pdf
+url_pdf: publication/oopsla-20/OOPSLA20.pdf
 url_code: https://github.com/jiry17/MaxFlash
 url_dataset:
 url_poster:

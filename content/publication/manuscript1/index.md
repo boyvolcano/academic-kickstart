@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://hal.archives-ouvertes.fr/hal-03322630/document
+url_pdf: publication/manuscript1/manuscript.pdf
 url_code: 
 url_dataset:
 url_poster:
