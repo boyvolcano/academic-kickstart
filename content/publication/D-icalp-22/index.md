@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Guiding Dynamic Programing via Structural Probability for Accelerating Programming by Example."
-authors: [Ruyi Ji, Yican Sun, Yingfei Xiong, Zhenjiang Hu]
-date: "2020-03-30T20:00:00+08:00"
+title: "On Lower Bounds of Approximating Parameterized k-Clique"
+authors: [Bingkai Lin, Xuandi Ren, Yican Sun, Xiuhan Wang]
+date: "2022-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +16,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "OOPSLA'20: Object-Oriented Programming, Systems, Languages, and Applications 2020"
-publication_short: "**OOPSLA 2020**"
+publication: "*The 49th International Colloquium on Automata, Languages, and Programming (ICALP'22)*"
+publication_short: ""
 
 abstract: 
 # Summary. An optional shortened abstract.
@@ -35,14 +35,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/oopsla-20/OOPSLA20.pdf
-url_code: https://github.com/jiry17/MaxFlash
+url_pdf: https://arxiv.org/pdf/2111.14033.pdf
+url_code: 
 url_dataset:
 url_poster:
 url_project: 
 url_slides:
 url_source:
-url_video: https://www.youtube.com/watch?v=wJy-gEXVxO0
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

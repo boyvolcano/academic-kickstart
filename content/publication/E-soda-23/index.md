@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "TreeGen: A Tree-Based Transformer Architecture for Code Generation"
-authors: [Zeyu Sun, Qihao Zhu, Yingfei Xiong, "Yican Sun", Lili Mou, Lu Zhang]
-date: "2019-11-30T20:00:00+08:00"
+title: "Constant Approximating Parameterized k-SetCover is W[2]-hard"
+authors: [Bingkai Lin, Xuandi Ren, Yican Sun, Xiuhan Wang]
+date: "2023-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2022-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "**AAAI 2020**"
+publication: "*To appear at ACM-SIAM Symposium on Discrete Algorithms (SODA'23)*"
+publication_short: ""
 
 abstract: 
 # Summary. An optional shortened abstract.
@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/1911.09983.pdf
+url_pdf: https://arxiv.org/pdf/2202.04377.pdf
 url_code: 
 url_dataset:
 url_poster:

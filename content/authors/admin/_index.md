@@ -12,13 +12,16 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: PKU-PLL, Peking University
-  url: "http://115.27.245.253/cxyysys/info/1082/1563.htm"
+  url: "https://pl.cs.pku.edu.cn"
 
 education:
   courses:
+  - course: Ph.D. Student in Computer Science
+    institution: PKU-PLL, School of Computer Science, Peking University
+    year: 2021-
   - course: BSc in Computer Science
     institution: Turing Class, School of EECS, Peking University
-    year: 2017-2021 (expected)
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,7 +43,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "renxuandi@pku.edu.cn"
+email: "sycpku@pku.edu.cn"
 
 ---
-I am a final year undergraduate student in Turing Class, Peking University, advised by Prof. {{% staticref "https://xiongyingfei.github.io" "newtab" %}}Yingfei Xiong{{% /staticref %}}. I also worked with Prof. {{% staticref "http://jhc.sjtu.edu.cn/~hongfeifu" "newtab" %}}Hongfei Fu{{% /staticref %}} and Prof. {{% staticref "https://sites.google.com/site/bingkai314159/" "newtab" %}}Bingkai Lin{{% /staticref %}} this summer. I am interested in problems about programs and programming languages, especially in program synthesis, decision procedures and probabilistic program verification.
+I am second-year Ph.D. student in PKU-PLL, School of Computer Science, Peking University. I am currently advised by Prof. Yingfei Xiong. I also worked with Prof. Hongfei Fu and Prof. Bingkai Lin. I am interested in problems about programs and programming languages, especially in program synthesis, decision procedures and probabilistic program verification. I also have some work on inapproximatability under the parameterized complexity regime.

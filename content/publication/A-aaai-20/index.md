@@ -1,11 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Concentration-Bound Analysis for Probabilistic Programs and Probabilistic Recurrence Relations
-"
-authors: [Jinyi Wang$^*$, "Yican Sun$^*$", Hongfei Fu, Mingzhang Huang, Amir Kafshdar Goharshady, Krishnendu Chatterjee
-]
-date: "2020-07-05T20:00:00+08:00"
+title: "TreeGen: A Tree-Based Transformer Architecture for Code Generation"
+authors: [Zeyu Sun, Qihao Zhu, Yingfei Xiong, "Yican Sun", Lili Mou, Lu Zhang]
+date: "2019-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,11 +13,11 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "**Manuscript**"
+publication: "*The Thirty-Fourth AAAI Conference on Artificial Intelligence* *(AAAI'20)*"
+publication_short: ""
 
 abstract: 
 # Summary. An optional shortened abstract.
@@ -37,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2008.00425.pdf
+url_pdf: https://arxiv.org/pdf/1911.09983.pdf
 url_code: 
 url_dataset:
 url_poster:

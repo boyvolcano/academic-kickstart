@@ -1,14 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Quantitative Analysis of Assertion Violations in Probabilistic Programs"
-authors: [Jinyi Wang$^*$, "Yican Sun$^*$", Hongfei Fu, Mingzhang Huang, Amir Kafshdar Goharshady, Krishnendu Chatterjee
-]
-date: "2020-11-21T20:00:00+08:00"
+title: "Automated Concentration Bound Analysis for Probabilistic Recurrence Relations"
+authors: [Hongfei Fu$^*$, "Yican Sun$^*$", Krishnendu Chatterjee, Amir Kafshdar Goharshady]
+date: "2023-10-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2022-10-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,8 +16,8 @@ publishDate: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "**Manuscript**"
+publication: "*Working Paper*"
+publication_short: ""
 
 abstract: 
 # Summary. An optional shortened abstract.
@@ -36,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2011.14617.pdf
+url_pdf: https://hal.archives-ouvertes.fr/hal-03322630/document
 url_code: 
 url_dataset:
 url_poster:
