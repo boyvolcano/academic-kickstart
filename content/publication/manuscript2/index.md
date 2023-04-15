@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Automated Tail Bound Analysis for Probabilistic Recurrence Relations"
-authors: [Yican Sun, Hongfei Fu, Krishnendu Chatterjee, Amir Kafshdar Goharshady]
-date: "2023-10-02T00:00:00Z"
+title: "Improved Hardness of Approximating k-Clique under ETH"
+authors: [Bingkai Lin, Xuandi Ren, Yican Sun, Xiuhan Wang]
+date: "2023-12-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/manuscript1/manuscript.pdf
+url_pdf: https://arxiv.org/pdf/2304.02943.pdf
 url_code: 
 url_dataset:
 url_poster:

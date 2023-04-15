@@ -16,7 +16,7 @@ publishDate: "2022-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*To appear at ACM-SIAM Symposium on Discrete Algorithms (SODA'23)*"
+publication: "*ACM-SIAM Symposium on Discrete Algorithms (SODA'23)*"
 publication_short: ""
 
 abstract: 
