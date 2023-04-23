@@ -3,20 +3,20 @@
 
 title: "Automated Tail Bound Analysis for Probabilistic Recurrence Relations"
 authors: [Yican Sun, Hongfei Fu, Krishnendu Chatterjee, Amir Kafshdar Goharshady]
-date: "2023-10-02T00:00:00Z"
+date: "2023-04-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-02T00:00:00Z"
+publishDate: "2023-04-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*"
+publication: "*To appear at 35th International Conference on Computer Aided Verification (CAV'23)*"
 publication_short: ""
 
 abstract: 
@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/manuscript1/manuscript.pdf
+url_pdf: publication/cav-23/cav23.pdf
 url_code: 
 url_dataset:
 url_poster:

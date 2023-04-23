@@ -3,7 +3,7 @@
 
 title: "Constant Approximating Parameterized k-SetCover is W[2]-hard"
 authors: [Bingkai Lin, Xuandi Ren, Yican Sun, Xiuhan Wang]
-date: "2023-10-01T00:00:00Z"
+date: "2022-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
